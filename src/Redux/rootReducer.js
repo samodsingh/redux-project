@@ -4,4 +4,5 @@ import { cartData } from "./Reducer";
 
 export default combineReducers(
     {cartData}
+    
 )
